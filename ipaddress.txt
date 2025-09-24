@@ -1,100 +1,16 @@
-104.22.26.39#North America-Toronto
-162.159.16.117#North America-Toronto
-173.245.49.164#North America-Toronto
-172.64.40.5#North America-Toronto
-172.67.88.14#North America-Toronto
-172.64.32.61#North America-Toronto
-172.67.185.79#North America-Toronto
-104.20.70.43#North America-Toronto
-104.20.75.224#North America-Toronto
-172.64.93.216#North America-Toronto
-104.22.74.116#North America-Toronto
-141.101.114.109#North America-Toronto
-172.64.53.145#North America-Toronto
-172.67.189.2#North America-Toronto
-104.23.132.119#North America-Toronto
-104.23.131.25#North America-Toronto
-104.31.16.30#North America-Toronto
-172.64.69.176#North America-Toronto
-104.21.230.93#North America-Toronto
-172.67.87.241#North America-Toronto
-162.159.24.200#North America-Toronto
-172.67.133.40#North America-Toronto
-104.23.108.150#North America-Toronto
-172.67.7.241#North America-Toronto
-172.67.9.165#North America-Toronto
-172.67.11.18#North America-Toronto
-172.67.8.205#North America-Toronto
-104.22.21.2#North America-Toronto
-172.67.3.236#North America-Toronto
-162.159.21.66#North America-Toronto
-172.64.90.29#North America-Toronto
-104.23.137.215#North America-Toronto
-198.217.251.130#North America-Toronto
-172.64.92.17#North America-Toronto
-162.159.15.254#North America-Toronto
-198.41.217.186#North America-Toronto
-162.159.14.112#North America-Toronto
-172.67.181.60#North America-Toronto
-198.41.202.160#North America-Toronto
-172.65.207.122#Europe-Madrid
-172.67.10.51#North America-Toronto
-172.67.5.206#North America-Toronto
-162.159.25.137#North America-Toronto
-172.67.27.125#North America-Toronto
-104.23.138.57#North America-Toronto
-104.23.118.12#North America-Toronto
-162.159.22.118#North America-Toronto
-172.65.206.90#North America-Toronto
-172.67.231.175#North America-Toronto
-104.22.47.195#North America-Toronto
-172.67.186.59#North America-Toronto
-172.67.187.9#North America-Toronto
-172.64.91.77#North America-Toronto
-172.67.172.13#North America-Toronto
-172.65.242.153#North America-Toronto
-172.67.180.255#North America-Toronto
-104.23.142.246#North America-Toronto
-104.20.33.192#North America-Toronto
-162.159.23.81#North America-Toronto
-172.67.32.19#North America-Toronto
-172.67.33.182#North America-Toronto
-104.22.43.112#North America-Toronto
-104.23.136.197#North America-Toronto
-172.67.171.223#North America-Toronto
-172.64.48.246#North America-Toronto
-172.67.12.195#North America-Toronto
-172.67.15.175#North America-Toronto
-104.25.219.217#North America-Toronto
-104.25.218.75#North America-Toronto
-104.23.135.249#North America-Toronto
-162.159.9.2#North America-Toronto
-104.18.222.152#North America-Toronto
-104.18.82.30#North America-Toronto
-104.18.73.117#North America-Toronto
-104.18.150.169#North America-Toronto
-104.18.149.57#North America-Toronto
-104.23.110.50#North America-Toronto
-104.23.111.170#North America-Toronto
-104.17.80.106#North America-Toronto
-104.17.109.157#North America-Toronto
-198.41.216.27#North America-Toronto
-172.65.237.255#Europe-Madrid
-172.64.41.162#North America-Toronto
-104.22.44.202#North America-Toronto
-104.22.46.40#North America-Toronto
-172.67.6.185#North America-Toronto
-172.67.4.221#North America-Toronto
-104.23.133.72#North America-Toronto
-172.67.36.139#North America-Toronto
-172.67.35.251#North America-Toronto
-198.41.203.165#North America-Toronto
-172.67.19.134#North America-Toronto
-162.159.27.218#North America-Toronto
-104.16.23.32#North America-Toronto
-104.16.22.28#North America-Toronto
-172.67.143.109#North America-Toronto
-162.159.10.177#North America-Toronto
-104.27.6.95#North America-Toronto
-104.25.44.178#North America-Toronto
-104.25.46.183#North America-Toronto
+104.16.242.191:443#CA 官方优选 28ms
+103.21.244.25:443#CA 官方优选 29ms
+104.19.153.110:443#CA 官方优选 29ms
+198.41.201.33:443#CA 官方优选 29ms
+173.245.59.101:443#CA 官方优选 29ms
+103.21.244.164:443#CA 官方优选 29ms
+103.21.244.157:443#CA 官方优选 30ms
+188.114.96.210:443#CA 官方优选 30ms
+104.25.73.250:443#CA 官方优选 30ms
+104.17.136.254:443#CA 官方优选 30ms
+103.21.244.117:443#CA 官方优选 31ms
+188.114.96.38:443#CA 官方优选 31ms
+104.18.244.36:443#CA 官方优选 31ms
+104.24.23.99:443#CA 官方优选 31ms
+173.245.58.22:443#CA 官方优选 31ms
+162.159.138.251:443#CA 官方优选 32ms
